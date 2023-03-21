@@ -7,5 +7,12 @@
   <li>JS</li>
   <li>Tailwind</li>
   <li>SASS</li>
-  <li>React JS</li>
+  <li>React JS</li> 
+</ul>
+
+<h3>Proyectos: </h3>
+<ul>
+  <li>Aplicación de Clima</li>
+  <li>Aplicación mostrar productos</li>
+  <li>Blog</li>
 </ul>
