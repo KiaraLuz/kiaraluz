@@ -36,5 +36,5 @@
 <h2>Otras redes: </h2>
 <ul>
   <li>Gmail: fernandezperezkiara@gmail.com</li>
-  <li>Discord: Kaori#1534</li>
+  <a href="https://dsc.bio/KiaraLuz"><li>Discord</li></a>
 </ul>
