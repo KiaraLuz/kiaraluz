@@ -1,4 +1,6 @@
 <h2>Kiara Luz</h2>
+<h3>Estudiante universitario en Ingeniería de Sistemas en busca de experiencia laboral, con conocimientos en distintos lenguajes de programación. Soy capaz de adaptarme al entorno y siempre estoy interesada en aprender nuevas tecnologías para mejorar mi trabajo.</h3>
+
 <h2>Educación:</h2>
 <p>Estudiante universitario de la carrera de Ingeniería de Sistemas (2020 - actualidad)</p>
 
@@ -29,4 +31,10 @@
 <h2>Habilidades no técnicas: </h2>
 <ul>
   <li>Adaptabilidad</li>
+</ul>
+
+<h2>Otras redes: </h2>
+<ul>
+  <li>Gmail: fernandezperezkiara@gmail.com</li>
+  <li>Discord: Kaori#1534</li>
 </ul>
