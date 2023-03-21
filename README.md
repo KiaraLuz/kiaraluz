@@ -6,8 +6,8 @@
 
 <h2>Proyectos: </h2>
 <ul>
-  <a href="https://costura.netlify.app"><li>Aplicación de Clima</li></a>
-  <a href="https://climate-by-city.netlify.app"><li>Aplicación de Portafolio de Costura</li></a>
+  <a href="https://climate-by-city.netlify.app"><li>Aplicación de Clima</li></a>
+  <a href="https://costura.netlify.app"><li>Aplicación de Portafolio de Costura</li></a>
   <li>Blog</li>
 </ul>
 
