@@ -4,8 +4,8 @@
 
 <h2>Proyectos: </h2>
 <ul>
-  <a href="https://costura.netlify.app" style={"text-decoration: none"}><li>Aplicación de Clima</li></a>
-  <a href="https://climate-by-city.netlify.app" style={"text-decoration: none"}><li>Aplicación de Portafolio de Costura</li></a>
+  <a href="https://costura.netlify.app"><li>Aplicación de Clima</li></a>
+  <a href="https://climate-by-city.netlify.app"><li>Aplicación de Portafolio de Costura</li></a>
 </ul>
 
 <h2>Habilidades técnicas: </h2>
