@@ -27,6 +27,5 @@
 
 <h2>Habilidades no técnicas: </h2>
 <ul>
-  <li>Flexibilidad de aprendizaje)</li>
   <li>Adaptabilidad</li>
 </ul>
