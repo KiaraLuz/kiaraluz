@@ -9,6 +9,7 @@
   <a href="https://climate-by-city.netlify.app"><li>Aplicación de Clima</li></a>
   <a href="https://costura.netlify.app"><li>Aplicación de Portafolio de Costura</li></a>
   <li>Blog</li>
+  <li>Red social</li>
 </ul>
 
 <h2>Habilidades técnicas: </h2>
