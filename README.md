@@ -26,7 +26,7 @@
 
 <h2>Cursos: </h2>
 <ul>
-  <li>Udemy: Master en React (en curso)</li>
+  <li>Udemy: Master en React (finalizado)</li>
 </ul>
 
 <h2>Habilidades no técnicas: </h2>
