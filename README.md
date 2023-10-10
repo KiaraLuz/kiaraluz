@@ -25,14 +25,14 @@
   <li>Base de datos: MySQL, MongoDB</li>
 </ul>
 
-<h2>Cursos: </h2>
-<ul>
-  <li>Udemy: Master en React (finalizado)</li>
-</ul>
-
 <h2>Habilidades no técnicas: </h2>
 <ul>
   <li>Adaptabilidad</li>
+</ul>
+
+<h2>Cursos: </h2>
+<ul>
+  <li>Udemy: Master en React (finalizado)</li>
 </ul>
 
 <h2>Otras redes: </h2>
