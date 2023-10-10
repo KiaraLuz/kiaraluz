@@ -8,6 +8,7 @@
 <ul>
   <a href="https://climate-by-city.netlify.app"><li>Aplicación de Clima</li></a>
   <a href="https://costura.netlify.app"><li>Aplicación de Portafolio de Costura</li></a>
+  <a href="https://lista-de-tareas-con-vue.netlify.app"><li>Lista de Tareas</li></a>
   <li>Blog</li>
   <li>Red social</li>
 </ul>
@@ -20,7 +21,7 @@
   <li>Tailwind</li>
   <li>JavaScript</li>
   <li>Otros: Java, C++</li>
-  <li>Frameworks: React JS</li>
+  <li>Frameworks: React JS, Vue JS</li>
   <li>Base de datos: MySQL, MongoDB</li>
 </ul>
 
