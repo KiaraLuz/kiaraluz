@@ -20,8 +20,8 @@
   <li>SASS</li>
   <li>Tailwind</li>
   <li>JavaScript</li>
-  <li>Otros: Java, C++</li>
-  <li>Frameworks: React JS, Vue JS</li>
+  <li>Otros: Java, C++, Python</li>
+  <li>Frameworks: React JS, Vue JS, Django</li>
   <li>Base de datos: MySQL, MongoDB</li>
 </ul>
 
