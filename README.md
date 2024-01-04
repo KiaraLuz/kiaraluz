@@ -8,7 +8,6 @@
 <ul>
   <a href="https://climate-by-city.netlify.app"><li>Aplicación de Clima</li></a>
   <a href="https://costura.netlify.app"><li>Aplicación de Portafolio de Costura</li></a>
-  <a href="https://lista-de-tareas-con-vue.netlify.app"><li>Lista de Tareas</li></a>
   <a href="https://animaciones-tailwind-css.netlify.app"><li>Repositorio de Animaciones</li></a>
   <li>Blog</li>
   <li>Red social</li>
