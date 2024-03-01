@@ -1,4 +1,4 @@
-# Sobre mí
+## Sobre mí
 
 Estudiante de Ingeniería de Sistemas, con sólidos conocimientos teóricos y 
 habilidades técnicas. Apasionada por la resolución de problemas y el aprendizaje continuo. Con la capacidad de adaptarme a diferentes situaciones que surjan. Busco obtener experiencia profesional y contribuir al crecimiento y desarrollo de una empresa.
