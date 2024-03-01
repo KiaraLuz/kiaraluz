@@ -1,42 +1,46 @@
-<h2>Kiara Luz</h2>
-<h3>Estudiante universitaria en Ingeniería de Sistemas en busca de experiencia laboral, con conocimientos en distintos lenguajes de programación. Soy capaz de adaptarme al entorno y siempre estoy interesada en aprender nuevas tecnologías para mejorar mi trabajo.</h3>
+# Sobre mí
 
-<h2>Educación:</h2>
-<p>Estudiante universitaria de la carrera de Ingeniería de Sistemas (2020 - actualidad)</p>
+Estudiante de Ingeniería de Sistemas, con sólidos conocimientos teóricos y 
+habilidades técnicas. Apasionada por la resolución de problemas y el aprendizaje continuo. Con la capacidad de adaptarme a diferentes situaciones que surjan. Busco obtener experiencia profesional y contribuir al crecimiento y desarrollo de una empresa.
 
-<h2>Proyectos: </h2>
+## Educación
+
+Universidad Nacional Federico Villarreal
+Ingeniería de Sistemas
+*(2021 - En curso)*
+
+## Competencias
+
+- HTML
+- JavaScript
+- CSS
+- Tailwind
+- Git
+- GitHub
+- React Js
+- Vue Js
+- Python
+- MySQL
+- MongoDB
+- Excel
+
+## Cursos
+
+Master en React: Aprender ReactJS, Hooks, MERN, NodeJS, JWT+
+*(Udemy, 2 de Mayo de 2023)*
+
+## Contacto
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiara-luz-fernandez-perez-a182a226b/) [![whatsapp](https://img.shields.io/badge/whatsapp-27C646?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51967252509)  [![gmail](https://img.shields.io/badge/gmail-C70000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandezperezkiara@gmail.com) 
+
+## Redes Sociales
+[![github](https://img.shields.io/badge/github-212425?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KiaraLuz) [![discord](https://img.shields.io/badge/discord-606996?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/) [![twitch](https://img.shields.io/badge/twitch-A334E6?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kaori__17) [![instagram](https://img.shields.io/badge/instagram-F93B7D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaori_san17/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KaoriCh53967208)
+
+## Proyectos
 <ul>
   <a href="https://climate-by-city.netlify.app"><li>Aplicación de Clima</li></a>
   <a href="https://costura.netlify.app"><li>Aplicación de Portafolio de Costura</li></a>
   <a href="https://animaciones-tailwind-css.netlify.app"><li>Repositorio de Animaciones</li></a>
   <li>Blog</li>
   <li>Red social</li>
-</ul>
-
-<h2>Habilidades técnicas: </h2>
-<ul> 
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>SASS</li>
-  <li>Tailwind</li>
-  <li>JavaScript</li>
-  <li>Otros: Java, C++, Python</li>
-  <li>Frameworks: React JS, Vue JS, Django</li>
-  <li>Base de datos: MySQL, MongoDB</li>
-</ul>
-
-<h2>Habilidades no técnicas: </h2>
-<ul>
-  <li>Adaptabilidad</li>
-</ul>
-
-<h2>Cursos: </h2>
-<ul>
-  <li>Udemy: Master en React (finalizado)</li>
-</ul>
-
-<h2>Otras redes: </h2>
-<ul>
-  <li>Gmail: fernandezperezkiara@gmail.com</li>
-  <a href="https://dsc.bio/KiaraLuz"><li>Discord</li></a>
 </ul>
