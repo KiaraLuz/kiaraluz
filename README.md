@@ -7,6 +7,7 @@ habilidades técnicas. Apasionada por la resolución de problemas y el aprendiza
 
 Universidad Nacional Federico Villarreal
 Ingeniería de Sistemas
+
 *(2021 - En curso)*
 
 ## Competencias
@@ -27,6 +28,7 @@ Ingeniería de Sistemas
 ## Cursos
 
 Master en React: Aprender ReactJS, Hooks, MERN, NodeJS, JWT+
+
 *(Udemy, 2 de Mayo de 2023)*
 
 ## Contacto
