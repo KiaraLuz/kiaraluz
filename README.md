@@ -46,3 +46,5 @@ Master en React: Aprender ReactJS, Hooks, MERN, NodeJS, JWT+
 
 ## Redes Sociales
 [![github](https://img.shields.io/badge/github-212425?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KiaraLuz) [![discord](https://img.shields.io/badge/discord-606996?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/) [![twitch](https://img.shields.io/badge/twitch-A334E6?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kaori__17) [![instagram](https://img.shields.io/badge/instagram-F93B7D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaori_san17/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KaoriCh53967208)
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
