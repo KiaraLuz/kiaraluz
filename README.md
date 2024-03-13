@@ -1,47 +1,65 @@
-## Sobre mí
+<h2 align="left">Universitaria de Ingeniería de Sistemas</h2>
 
-Estudiante de Ingeniería de Sistemas, con sólidos conocimientos teóricos y 
-habilidades técnicas. Apasionada por la resolución de problemas y el aprendizaje continuo. Con la capacidad de adaptarme a diferentes situaciones que surjan. Busco obtener experiencia profesional y contribuir al crecimiento y desarrollo de una empresa.
+###
 
-## Educación
+<br clear="both">
 
-Universidad Nacional Federico Villarreal
-Ingeniería de Sistemas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KiaraLuz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KiaraLuz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="130" alt="languages graph"  />
+</div>
 
-**(2021 - En curso)**
+###
 
-## Competencias
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+</div>
 
-- HTML
-- JavaScript
-- CSS
-- Tailwind
-- Git
-- GitHub
-- React Js
-- Vue Js
-- Python
-- MySQL
-- MongoDB
-- Excel
+###
 
-## Cursos
+<div align="center">
+  <a href="https://www.linkedin.com/in/kiara-luz-fernandez-perez-a182a226b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:fernandezperezkiara@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
+  </a>
+  <a href="https://discords.com/bio/p/KiaraLuz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="discord logo"  />
+  </a>
+  <a href="https://www.twitch.tv/kaori__17" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="twitch logo"  />
+  </a>
+  <a href="https://www.instagram.com/kaori_san17/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/KaoriCh53967208" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="twitter logo"  />
+  </a>
+</div>
 
-Master en React: Aprender ReactJS, Hooks, MERN, NodeJS, JWT+
+###
 
-**(Udemy, 2 de Mayo de 2023)**
+<br clear="both">
 
-## Proyectos
-<ul>
-  <a href="https://climate-by-city.netlify.app"><li>Aplicación de Clima</li></a>
-  <a href="https://animaciones-tailwind-css.netlify.app"><li>Repositorio de Animaciones</li></a>
-  <li>Blog</li>
-  <li>Red social</li>
-</ul>
+<img src="https://raw.githubusercontent.com/KiaraLuz/KiaraLuz/output/snake.svg" alt="Snake animation" />
 
-## Contacto
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiara-luz-fernandez-perez-a182a226b/) [![whatsapp](https://img.shields.io/badge/whatsapp-27C646?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51967252509)  [![gmail](https://img.shields.io/badge/gmail-C70000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandezperezkiara@gmail.com) 
-
-## Redes Sociales
-[![github](https://img.shields.io/badge/github-212425?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KiaraLuz) [![discord](https://img.shields.io/badge/discord-606996?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/) [![twitch](https://img.shields.io/badge/twitch-A334E6?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kaori__17) [![instagram](https://img.shields.io/badge/instagram-F93B7D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaori_san17/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KaoriCh53967208)
+###
