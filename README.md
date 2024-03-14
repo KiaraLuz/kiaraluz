@@ -58,8 +58,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/KiaraLuz/KiaraLuz/output/snake.svg" alt="Snake animation" />
 
 ###
