@@ -1,4 +1,4 @@
-<h2 align="left">Universitaria de Ingeniería de Sistemas</h2>
+<h2 align="left">Egresada de Ingeniería de Sistemas</h2>
 
 ###
 
