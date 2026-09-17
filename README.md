@@ -1,5 +1,3 @@
-<h2 align="left">Egresada de Ingeniería de Sistemas</h2>
-
 ###
 
 <div align="center">
