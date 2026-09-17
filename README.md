@@ -2,9 +2,13 @@
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=KiaraLuz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=false" height="200" alt="stats graph" />
+</div>
 
+<div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=KiaraLuz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="200" alt="languages graph" />
+</div>
 
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=KiaraLuz&theme=github-dark&locale=es" height="200" alt="GitHub streak stats" />
 </div>
 
